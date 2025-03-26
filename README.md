@@ -149,6 +149,7 @@ If you find our survey useful for your research, please cite the following paper
 
 | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
+| [**BIMBA: Selective-Scan Compression for Long-Range Video Question Answering**](https://arxiv.org/abs/2503.09590) |   BIMBA   | 03/2025 |      [project page](https://sites.google.com/view/bimba-mllm)       | CVPR |
 | [**AuroraCap: Efficient, Performant Video Detailed Captioning and a New Benchmark**](https://arxiv.org/abs/2410.03051) |   AuroraCap   | 10/2024 |      [project page](https://rese1f.github.io/aurora-web/)       | arXiv |
 | [**Artemis towards referential understanding in complex videos**](https://arxiv.org/abs/2406.00258) |   Artemis   | 06/2024 |      [code](https://github.com/qiujihao19/Artemis)       | arXiv |
 | [**EmoLLM multimodal emotional understanding meets large language models**](https://arxiv.org/abs/2406.16442) |   EmoLLM   | 06/2024 |      [code](https://github.com/yan9qu/EmoLLM)       | arXiv |
